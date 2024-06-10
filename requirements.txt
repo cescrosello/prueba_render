@@ -6,5 +6,5 @@ pandas
 Flask
 SQLAlchemy
 scikit-learn
-
+gunicorn
 
